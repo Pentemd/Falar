@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "falar:titane_block"
+    }
+  ],
+  "result": {
+    "item": "falar:titane_ingot",
+    "count": 9
+  }
+}

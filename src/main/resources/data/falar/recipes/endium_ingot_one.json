@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "falar:endium_nuggets"
+    }
+  },
+  "result": {
+    "item": "falar:endium_ingot",
+    "count": 1
+  }
+}

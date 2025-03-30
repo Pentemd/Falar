@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "falar:endium_ingot"
+    }
+  },
+  "result": {
+    "item": "falar:endium_helmet",
+    "count": 1
+  }
+}

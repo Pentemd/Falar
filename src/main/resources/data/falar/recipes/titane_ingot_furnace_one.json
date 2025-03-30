@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "falar:titane_ore"
+  },
+  "result": "falar:titane_ingot",
+  "experience": 0.3,
+  "cookingtime": 300
+}

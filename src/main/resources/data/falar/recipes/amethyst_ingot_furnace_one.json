@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "falar:amethyst_ore"
+  },
+  "result": "falar:amethyst_ingot",
+  "experience": 0.3,
+  "cookingtime": 300
+}

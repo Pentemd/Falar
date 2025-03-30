@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "falar:paladium_ingot"
+    }
+  },
+  "result": {
+    "item": "falar:paladium_boots",
+    "count": 1
+  }
+}

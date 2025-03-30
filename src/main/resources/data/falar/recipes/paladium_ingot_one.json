@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "falar:paladium_block"
+    }
+  ],
+  "result": {
+    "item": "falar:paladium_ingot",
+    "count": 9
+  }
+}

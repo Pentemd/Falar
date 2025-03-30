@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "falar:findium_ore"
+  },
+  "result": "falar:findium",
+  "experience": 0.3,
+  "cookingtime": 300
+}

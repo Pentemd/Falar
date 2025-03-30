@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "falar:paladium_green_ore"
+  },
+  "result": "falar:paladium_green_ingot",
+  "experience": 0.3,
+  "cookingtime": 300
+}
