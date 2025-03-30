@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "falar:item/tool/titane/titane_sword"
+  }
+}

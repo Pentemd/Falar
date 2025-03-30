@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "falar:item/armor/paladium_green/paladium_green_helmet"
+  }
+}

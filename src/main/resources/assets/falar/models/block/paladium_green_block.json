@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "falar:block/block_rarely/paladium_green_block"
+  }
+}
